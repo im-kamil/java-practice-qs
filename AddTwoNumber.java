@@ -3,6 +3,6 @@ public class AddTwoNumber {
        int a=45;
        int b=45;
        int c=a+b;
-       System.out.println(c);
+       System.out.println("sum ="+c);
    } 
 }
