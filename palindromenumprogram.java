@@ -14,7 +14,7 @@ public class palindromenumprogram {
             s = (s * 10) + r; // s=0 because we r adding and 1 because we r multiplying
             n = n / 10;
         }
-        if (s == n) {
+        if (c == s) {
             System.out.println("Palindrome number ");
         } else {
             System.out.println(" Not Palindrome number ");
