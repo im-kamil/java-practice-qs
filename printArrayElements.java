@@ -5,8 +5,6 @@ public class printArrayElements {
         a[0] = 10;
         a[1] = 20;
         a[2] = 30;
-        for (int i = 0; i < 3; i++) {
-            System.out.println(a[i] + " ");
-        }
+       System.out.println(a[1]);
     }
 }
