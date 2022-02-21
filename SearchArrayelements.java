@@ -25,7 +25,7 @@ public class SearchArrayelements {
             }
         }
         if (count > 0) {
-            System.out.println("Item found ");
+            System.out.println("Item found "+ count + "times");
         } else {
             System.out.println("Item not found ");
         }
